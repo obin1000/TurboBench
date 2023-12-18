@@ -82,3 +82,7 @@
 [submodule "EC/sserangecoding"]
 	path = EC/sserangecoding
 	url = https://github.com/richgel999/sserangecoding.git
+[submodule "nvcomp"]
+	path = nvcomp
+	url = https://github.com/NVIDIA/nvcomp.git
+	branch = branch-2.2
